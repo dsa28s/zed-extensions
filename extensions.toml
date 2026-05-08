@@ -1462,6 +1462,10 @@ submodule = "extensions/zed"
 path = "extensions/glsl"
 version = "0.2.3"
 
+[gn]
+submodule = "extensions/gn"
+version = "1.4.0"
+
 [go-snippets]
 submodule = "extensions/go-snippets"
 version = "0.1.5"
@@ -4572,10 +4576,6 @@ version = "0.0.3"
 [zarcula-theme]
 submodule = "extensions/zarcula-theme"
 version = "0.1.2"
-
-[zed-gn-language]
-submodule = "extensions/zed-gn-language"
-version = "1.4.0"
 
 [zed-legacy-themes]
 submodule = "extensions/zed-legacy-themes"
